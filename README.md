@@ -8,7 +8,11 @@
 1. Clonez le dépôt
 2. Modifiez le fichier
 3. Faites un commit
-4. ```bash
+### Option 2 : Utiliser ```shell ``` (Le plus précis)
+Cela indique que ce sont des commandes de "shell" (l'interface de ligne de commande), ce qui englobe à la fois Bash, Zsh, et les programmes qu'on y lance comme Git. La coloration sera très similaire à Bash.
+
+```markdown
+```shell
 git add .
 git commit -m "Mon premier commit"
 git push
