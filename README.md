@@ -16,7 +16,7 @@ Cela indique que ce sont des commandes de "shell" (l'interface de ligne de comma
 git add .
 git commit -m "Mon premier commit"
 git push
-
+```
 # 🎓 Exercice 1 : Découverte de Git
 
 Bienvenue dans ce premier exercice pratique !
